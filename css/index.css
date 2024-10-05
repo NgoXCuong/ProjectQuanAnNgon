@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #203c3a; /* Màu nền của header */
+}
+
+.nav-link {
+  color: #ffffff;
+  margin-right: 20px;
+}
+
+.nav-link:hover {
+  color: #ffd700; /* Màu khi hover */
+}
+
+.btn-warning {
+  background-color: #d19a5a;
+}
+
+.btn-warning:hover {
+  background-color: #c28a4b;
+}
+
+/* .container {
+  width: 1000px;
+} */
